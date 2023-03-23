@@ -1,2 +1,2 @@
-server:
-  port: 8007
+config:
+  info: 阿强是打不死的
